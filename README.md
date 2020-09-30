@@ -1,6 +1,5 @@
 # JS IS
-ES6 Javascript Typecheck Library
-
+ES6 JavaScript Type Check Library.
 
 ## ⚙️Installation
 The preferred way to install this extension is through [NPM][NPM].
