@@ -1,6 +1,6 @@
 {
   "name"         : "@varunsridharan/js-is",
-  "version"      : "0.0.0",
+  "version"      : "1.0.0",
   "description"  : "ES6 Javascript Typecheck Library",
   "author"       : "Varun Sridharan <varunsridharan23@gmail.com> (https://varunsridharan.in)",
   "keywords"     : [
