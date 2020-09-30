@@ -1,0 +1,6 @@
+test/*
+./test/*
+.github/*
+.github
+.gitattributes
+.editorconfig
